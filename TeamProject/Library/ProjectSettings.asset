@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 15
-  productGUID: 66af90591ed1d8541bfb5acc943bb1e9
+  productGUID: 4799d489ed0807d4b83b9a9b80c7acdc
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -580,10 +580,10 @@ PlayerSettings:
   facebookXfbml: 0
   facebookFrictionlessRequests: 1
   apiCompatibilityLevel: 6
-  cloudProjectId: 46cfcfb1-705f-4941-8f0c-77632af9bb46
+  cloudProjectId: 
   framebufferDepthMemorylessMode: 0
-  projectName: TeamProject
-  organizationId: qtaro5302
+  projectName: 
+  organizationId: 
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
   disableOldInputManagerSupport: 0
